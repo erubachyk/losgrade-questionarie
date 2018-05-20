@@ -1,0 +1,15 @@
+
+Таблицы:
+question - Вопросы
+
+text - Текст вопроса
+createdate - дата создания
+anscounter - кол-во ответов
+fixed - закреплен
+
+
+
+answer - ответы
+question - ссылка на вопрос
+text
+count
