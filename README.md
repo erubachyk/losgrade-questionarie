@@ -1,6 +1,9 @@
-# vue_polls
+# Questionnaire for agrarian company
 
-> polls
+## Features
+Creating questions
+Uniq answers counter
+
 
 ## Build Setup
 
